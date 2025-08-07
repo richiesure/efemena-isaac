@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/2ac5a2df-195b-4a9e-8e6e-f08ae59ee449" />
+
+
 🚀 DevOps Engineer | Cloud Enthusiast | Infrastructure Automation 🔧
 
 Hi there! I'm Efemena Isaac — a passionate DevOps Engineer who thrives on automating infrastructure, improving CI/CD pipelines, and ensuring scalable, reliable cloud environments. I specialize in tools like Terraform, Docker, Kubernetes, and AWS, and love turning complex manual tasks into clean, repeatable code.
