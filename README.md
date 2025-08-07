@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/2ac5a2df-195b-4a9e-8e6e-f08ae59ee449" />
+<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/67577b24-4d67-490c-9a4e-0e2edc5ffa3f" />
+
 
 
 🚀 DevOps Engineer | Cloud Enthusiast | Infrastructure Automation 🔧
