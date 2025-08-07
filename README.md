@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/67577b24-4d67-490c-9a4e-0e2edc5ffa3f" />
+<img width="1584" height="396" alt="White and Blue Minimalist AI Engineer LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/d3064313-b9de-4193-b7d0-61298f7c8a6f" />
+
 
 
 
